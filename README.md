@@ -13,7 +13,7 @@ para fim de demostração.</p>
 
 <img src="respiral.png"/>
 
-#Observações
+# Observações
 <p> Somos um grupo de pesquisadores focados na criação de um respirador mecânico de baixo custo, 
 com o intuito de auxiliar no tratamento da Covid19.</p>
 
