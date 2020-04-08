@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="./css/normalize.css"> -->
+    <link rel="stylesheet" href="./css/index.css">
+    <title>Simulador</title>
+</head>
+<body>
+    <div class="main"> 
+        <div class="graficosColuna">
+            <div id="graficoPressao" ></div>
+            <div id="graficoFrequencia" ></div>
+            <div id="graficoFluxo" ></div>
+        </div>
+
+        <div class="dadosColuna">
+            <!-- Pressão -->
+            
+            <div class = "pressao-dado dados"> 
+                <span class="dados-texto">
+                    <span class="titulo-dado">Ppico</span> 
+                    <span class="unidade">(cmH <sub>2</sub>O) </span>
+                    <br>
+                    <span id="pressaoValor" class="valor">00</span>
+                </span>
+            </div>
+           
+
+            <!-- Frequência -->
+            
+            <div class = "frequencia-dado dados" >
+                <span class="dados-texto">
+                    <span class="titulo-dado">F. Resp</span> 
+                    <span class="unidade">(resp/min)</span>
+                    <br>
+                    <span id="frequenciaValor" class="valor"> 00</span>
+                </span>
+            </div>             
+            
+            
+            <!-- Fluxo -->
+            
+            <div class = "fluxo-dado dados">
+                <span class="dados-texto">
+                    <span class="titulo-dado">MVe</span> 
+                    <span class="unidade">(l/min)</span>
+                    <br>
+                    <span id="fluxoValor" class="valor"> 00</span>
+                </span>
+            </div>
+
+        </div>
+        
+    </div>
+</body>
+<script src="./js/canvasjs.min.js"></script>
+<script src="./js/index.js"></script>
+</html>
