@@ -28,3 +28,11 @@ para contribuir na nosso vakinha ;).
 <p>Siga também nossa página no instagram <a href="https://www.instagram.com/projeto.respiral/"> clicando aqui</a>
 ou pesquise por @projeto.respiral
 </p>
+
+#Mídia
+
+<a href = "https://g1.globo.com/al/alagoas/video/teste-mostra-respiral-20-funcionando-equipamento-foi-criado-por-pesquisadores-de-al-8638869.ghtml"> <p>Saímos no G1</p></a>
+<a href = "https://www2.ifal.edu.br/noticias/respirador-mecanico-de-baixo-custo-e-produzido-com-ajuda-de-professor-e-estudante-do-ifal"><p>Teve uma publicação da minha instituição</p></a>
+
+<p> Além dessas duas postagem, saímos em diversos outros jornais e blogs.</p>
+<p> Para sabe mais sobre o projeto basta pesquisar por "Projeto respiral" no Google</p>
